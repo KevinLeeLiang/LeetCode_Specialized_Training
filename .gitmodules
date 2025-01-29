@@ -1,3 +1,6 @@
 [submodule "Hashtable"]
 	path = Hashtable
 	url = https://github.com/KevinLeeLiang/LeetCode-Hashtable
+[submodule "DepthFirstSearch"]
+	path = DepthFirstSearch
+	url = https://github.com/KevinLeeLiang/LeetCode_DepthFirstSearch
