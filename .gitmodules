@@ -1,0 +1,3 @@
+[submodule "Hashtable"]
+	path = Hashtable
+	url = https://github.com/KevinLeeLiang/LeetCode-Hashtable
