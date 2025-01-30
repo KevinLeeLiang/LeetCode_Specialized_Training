@@ -4,3 +4,6 @@
 [submodule "DepthFirstSearch"]
 	path = DepthFirstSearch
 	url = https://github.com/KevinLeeLiang/LeetCode_DepthFirstSearch
+[submodule "BreadthFirstSearch"]
+	path = BreadthFirstSearch
+	url = https://github.com/KevinLeeLiang/LeetCode_BreadthFirstSearch
