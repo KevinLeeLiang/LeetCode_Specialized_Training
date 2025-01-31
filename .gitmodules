@@ -7,3 +7,9 @@
 [submodule "BreadthFirstSearch"]
 	path = BreadthFirstSearch
 	url = https://github.com/KevinLeeLiang/LeetCode_BreadthFirstSearch
+[submodule "DualPointer"]
+	path = DualPointer
+	url = git@github.com:KevinLeeLiang/LeetCode_DualPointer.git
+[submodule "PriorityQueue"]
+	path = PriorityQueue
+	url = git@github.com:KevinLeeLiang/LeetCode_PriorityQueue.git
