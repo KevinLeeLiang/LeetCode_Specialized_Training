@@ -16,3 +16,6 @@
 [submodule "BinaryTree"]
 	path = BinaryTree
 	url = git@github.com:KevinLeeLiang/LeetCode_BinaryTree.git
+[submodule "Stack"]
+	path = Stack
+	url = git@github.com:KevinLeeLiang/LeetCode_Stack.git
