@@ -13,3 +13,6 @@
 [submodule "PriorityQueue"]
 	path = PriorityQueue
 	url = git@github.com:KevinLeeLiang/LeetCode_PriorityQueue.git
+[submodule "BinaryTree"]
+	path = BinaryTree
+	url = git@github.com:KevinLeeLiang/LeetCode_BinaryTree.git
