@@ -19,3 +19,6 @@
 [submodule "Stack"]
 	path = Stack
 	url = git@github.com:KevinLeeLiang/LeetCode_Stack.git
+[submodule "SlidingWindow"]
+	path = SlidingWindow
+	url = git@github.com:KevinLeeLiang/LeetCode_SlidingWindow.git
