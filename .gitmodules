@@ -22,3 +22,6 @@
 [submodule "SlidingWindow"]
 	path = SlidingWindow
 	url = git@github.com:KevinLeeLiang/LeetCode_SlidingWindow.git
+[submodule "BinarySearch"]
+	path = BinarySearch
+	url = git@github.com:KevinLeeLiang/LeetCode_BinarySearch.git
