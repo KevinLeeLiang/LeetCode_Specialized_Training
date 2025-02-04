@@ -25,3 +25,6 @@
 [submodule "BinarySearch"]
 	path = BinarySearch
 	url = git@github.com:KevinLeeLiang/LeetCode_BinarySearch.git
+[submodule "Tree"]
+	path = Tree
+	url = git@github.com:KevinLeeLiang/LeetCode_Tree.git
