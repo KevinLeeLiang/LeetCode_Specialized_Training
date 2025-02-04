@@ -28,3 +28,6 @@
 [submodule "Tree"]
 	path = Tree
 	url = git@github.com:KevinLeeLiang/LeetCode_Tree.git
+[submodule "LinkedList"]
+	path = LinkedList
+	url = git@github.com:KevinLeeLiang/LeetCode_LinkedList.git
