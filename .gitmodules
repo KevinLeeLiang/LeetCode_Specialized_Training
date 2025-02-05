@@ -1,12 +1,12 @@
 [submodule "Hashtable"]
 	path = Hashtable
-	url = https://github.com/KevinLeeLiang/LeetCode-Hashtable
+	url = git@github.com:KevinLeeLiang/LeetCode-Hashtable.git
 [submodule "DepthFirstSearch"]
 	path = DepthFirstSearch
-	url = https://github.com/KevinLeeLiang/LeetCode_DepthFirstSearch
+	url = git@github.com:KevinLeeLiang/LeetCode_DepthFirstSearch.git
 [submodule "BreadthFirstSearch"]
 	path = BreadthFirstSearch
-	url = https://github.com/KevinLeeLiang/LeetCode_BreadthFirstSearch
+	url = git@github.com:KevinLeeLiang/LeetCode_BreadthFirstSearch.git
 [submodule "DualPointer"]
 	path = DualPointer
 	url = git@github.com:KevinLeeLiang/LeetCode_DualPointer.git
