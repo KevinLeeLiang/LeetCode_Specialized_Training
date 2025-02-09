@@ -31,3 +31,6 @@
 [submodule "LinkedList"]
 	path = LinkedList
 	url = git@github.com:KevinLeeLiang/LeetCode_LinkedList.git
+[submodule "Queue"]
+	path = Queue
+	url = git@github.com:KevinLeeLiang/LeetCode_Queue.git
