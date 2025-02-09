@@ -34,3 +34,6 @@
 [submodule "Queue"]
 	path = Queue
 	url = git@github.com:KevinLeeLiang/LeetCode_Queue.git
+[submodule "DictionaryTree"]
+	path = DictionaryTree
+	url = git@github.com:KevinLeeLiang/LeetCode_DictionaryTree.git
