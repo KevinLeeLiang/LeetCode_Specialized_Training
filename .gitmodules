@@ -37,3 +37,6 @@
 [submodule "DictionaryTree"]
 	path = DictionaryTree
 	url = git@github.com:KevinLeeLiang/LeetCode_DictionaryTree.git
+[submodule "BitwiseOperation"]
+	path = BitwiseOperation
+	url = git@github.com:KevinLeeLiang/LeetCode_BitwiseOperation.git
