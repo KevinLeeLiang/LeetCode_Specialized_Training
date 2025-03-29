@@ -40,3 +40,6 @@
 [submodule "BitwiseOperation"]
 	path = BitwiseOperation
 	url = git@github.com:KevinLeeLiang/LeetCode_BitwiseOperation.git
+[submodule "Array"]
+	path = Array
+	url = git@github.com:KevinLeeLiang/LeetCode_Array.git
