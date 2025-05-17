@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BinarySearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BinaryTree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BitwiseOperation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BreadthFirstSearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DepthFirstSearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DictionaryTree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DualPointer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hashtable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LinkedList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PriorityQueue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Queue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SlidingWindow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tree" vcs="Git" />
+  </component>
+</project>
